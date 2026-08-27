@@ -37,6 +37,4 @@ The Sanitation Supervisor uses the system to generate optimized daily collection
 - `Municipal_Waste_UML_Use_Case_Diagram.pdf` — UML use-case diagram
 - `Municipal_Waste_Use_Case_Flow.pdf` — Use-case flow document
 
-## Lab
 
-**Lab 1 — Requirements Engineering**
