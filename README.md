@@ -1,52 +1,42 @@
-Municipal Solid Waste Route Optimizer
+# Municipal Solid Waste Route Optimizer
 
-Lab 1 --- Requirements Engineering
+## Requirements Engineering — Lab 1
 
-This repository contains the deliverables for Lab 1 of the Requirements
-Engineering project.
+This repository contains the deliverables for Lab 1 of the Requirements Engineering project.
 
-Project Overview
+## Project Overview
 
-The Municipal Solid Waste Route Optimizer is a system designed to
-support efficient waste collection. It uses information from smart trash
-bins to help identify bins that require collection and generate
-optimized routes for collection trucks.
+The **Municipal Solid Waste Route Optimizer** is a system designed to improve the efficiency of municipal waste collection.
 
-Lab 1 Deliverables
+The system uses information from smart trash bins to identify collection needs and helps sanitation supervisors generate optimized routes for collection trucks.
 
-Requirements Table --- five Functional Requirements (FRs) and
-two Non-Functional Requirements (NFRs), including acceptance
-criteria and rationale.
+## Lab 1 Deliverables
 
-UML Use-Case Diagram --- shows the main actors, use cases,
-system boundary, and include/extend relationships.
+| Deliverable | Description |
+|---|---|
+| Requirements Table | Five Functional Requirements (FRs) and two Non-Functional Requirements (NFRs), with priorities, acceptance criteria, and rationale. |
+| UML Use-Case Diagram | Shows the system actors, use cases, system boundary, and include/extend relationships. |
+| Use-Case Flow | Describes the main success scenario and alternate flows for a key use case. |
 
-Use-Case Flow --- describes the main success scenario and
-alternate flows for generating optimized collection routes.
+## Key Use Case
 
-Main Use Case
+### UC-02 — Generate Optimized Collection Routes
 
-UC-02 --- Generate Optimized Collection Routes
+The Sanitation Supervisor uses the system to generate optimized daily collection routes based on smart trash bin information and collection requirements.
 
-The Sanitation Supervisor uses the system to generate daily collection
-routes based on smart trash bin information and collection requirements.
+## Actors
 
-Actors
+- **Sanitation Supervisor**
+- **Truck Driver**
+- **Smart Trash Bin**
+- **Citizen**
 
-Sanitation Supervisor
+## Repository Contents
 
-Truck Driver
+- `Requirements_Table` — Requirements table
+- `Municipal_Waste_UML_Use_Case_Diagram.pdf` — UML use-case diagram
+- `Municipal_Waste_Use_Case_Flow.pdf` — Use-case flow document
 
-Smart Trash Bin
+## Lab
 
-Citizen
-
-Repository Contents
-
-The main files in this repository are:
-
-Requirements_Table
-
-Municipal_Waste_UML_Use_Case_Diagram.pdf
-
-Municipal_Waste_Use_Case_Flow.pdf
+**Lab 1 — Requirements Engineering**
